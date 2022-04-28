@@ -1,4 +1,4 @@
-Hello, I'm Murka. I'm focused on learning new technologies!
+<p align="center">Hello, I'm Murka. I'm focused on learning new technologies!</p>
 
 <h3 align="center">Languages and tools I already know:</h3>
 <p align="center">
