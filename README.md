@@ -14,6 +14,9 @@ Hello, I'm Murka. I'm focused on learning new technologies!
     <a href="https://www.typescriptlang.org/">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50" style="max-width: 100%;">
     </a>
+    <a href="https://reactjs.org/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" style="max-width: 100%;">
+    </a>
     <a href="https://nodejs.org/en/">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" style="max-width: 100%;">
     </a>
@@ -22,5 +25,8 @@ Hello, I'm Murka. I'm focused on learning new technologies!
     </a>
     <a href="https://discord.js.org/#/">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original-wordmark.svg" width="50" height="50" style="max-width: 100%;">
+    </a>
+    <a href="https://git-scm.com/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="50" height="50" style="max-width: 100%;">
     </a>
  </p>
