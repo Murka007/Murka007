@@ -21,7 +21,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" style="max-width: 100%;">
     </a>
     <a href="https://webpack.js.org/">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" width="50" height="50" style="max-width: 100%;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" width="50" height="50" style="max-width: 100%;">
     </a>
     <a href="https://discord.js.org/#/">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original-wordmark.svg" width="50" height="50" style="max-width: 100%;">
