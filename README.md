@@ -1,4 +1,3 @@
-<p align="center" style="max-width: 50%">
     <p align="center">Hello, I'm Murka. I'm focused on learning new technologies!</p>
 
     <h3 align="center">Languages and tools I already know:</h3>
@@ -30,5 +29,4 @@
         <a href="https://git-scm.com/">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="50" height="50" style="max-width: 100%;">
         </a>
-     </p>    
-</p>
+     </p>
