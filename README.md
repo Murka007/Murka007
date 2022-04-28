@@ -1,6 +1,6 @@
-<p>Hello, I'm Murka. I'm focused on learning new technologies!</p>
+Hello, I'm Murka. I'm focused on learning new technologies!
 
-<h3>Languages and tools I already know:</h3>
+### Languages and tools I already know:
 <p>
     <a href="https://www.w3schools.com/html/">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" style="max-width: 100%;">
@@ -29,6 +29,7 @@
     <a href="https://git-scm.com/">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="50" height="50" style="max-width: 100%;">
     </a>
+    <br>
  </p>
  
 ![Murka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murka007&count_private=true&theme=gruvbox&show_icons=true)
