@@ -32,4 +32,3 @@
         </a>
      </p>    
 </p>
-![Murka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murka007&theme=gruvbox&show_icons=true)
