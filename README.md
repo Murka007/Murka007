@@ -30,6 +30,9 @@ Hello, I'm Murka. I'm focused on learning new technologies!
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="50" height="50" style="max-width: 100%;">
     </a>
     <br>
+    <a href="https://www.npmjs.com/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="50" height="50" style="max-width: 100%;">
+    </a>
  </p>
  
 ![Murka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murka007&count_private=true&theme=gruvbox&show_icons=true)
