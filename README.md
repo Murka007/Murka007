@@ -8,7 +8,7 @@ Hello, I'm Murka. I'm focused on learning new technologies!
     <a href="https://www.w3schools.com/css/">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" style="max-width: 100%;">
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript">
+    <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" style="max-width: 100%;">
     </a>
     <a href="https://www.typescriptlang.org/">
