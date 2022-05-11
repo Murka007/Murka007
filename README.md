@@ -2,7 +2,7 @@ Hello, I'm Murka. I'm focused on learning new technologies!
 
 ### Languages and tools I already know:
 <p>
-    <a href="https://www.w3schools.com/html/">
+    <a href="https://www.w3schools.com/html">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" style="max-width: 100%;">
     </a>
     <a href="https://www.w3schools.com/css/">
