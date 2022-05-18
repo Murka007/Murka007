@@ -36,6 +36,6 @@ Hello, I'm Murka. I'm focused on learning new technologies!
     <br>
  </p>
  
-![Murka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murka007&count_private=true&theme=gruvbox&show_icons=true)
+![Murka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murka007&count_private=true&show_icons=true)
 
 ![](https://komarev.com/ghpvc/?username=Murka007&style=flat-square)
