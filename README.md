@@ -1,4 +1,7 @@
-Hello, I'm Murka. I'm focused on learning new technologies!
+Hello, I'm Murka. I'm focused on learning new technologies!<br>
+
+### Contact me using:
+- [Discord bio](https://discords.com/bio/p/murka)
 
 ### Languages and tools I already know:
 <p>
