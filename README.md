@@ -2,6 +2,7 @@ Hello, I'm Murka. I'm focused on learning new technologies!<br>
 
 ### Contacts and socials:
 - Greasyfork: [Murka007](https://greasyfork.org/en/users/919633-murka007)
+- Codewars: [Murka007](https://www.codewars.com/users/Murka007)
 
 ### Languages and tools I already know:
 <p>
