@@ -50,9 +50,6 @@ Hello, I'm Murka. I'm focused on learning new technologies!<br>
     <img src="https://www.codewars.com/users/Murka007/badges/large" height="50"/>
 </a>
 
-&nbsp;
-<br>
-
 ![Murka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murka007&count_private=true&show_icons=true&theme=aura_dark)
 
 ![](https://komarev.com/ghpvc/?username=Murka007&style=flat-square)
