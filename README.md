@@ -1,6 +1,7 @@
 Hello, I'm Murka. I'm focused on learning new technologies!<br>
 
 ### Contacts and socials:
+
 <img src="https://raw.githubusercontent.com/Murka007/Murka007/main/img/discord.svg" align="center" height="35"/>&nbsp;&nbsp;&nbsp;[Coding paradise](https://discord.gg/sG9cyfGPj5)<br>
 <img src="https://raw.githubusercontent.com/Murka007/Murka007/main/img/greasyfork.svg" align="center" height="35"/>&nbsp;&nbsp;&nbsp;[Murka](https://greasyfork.org/en/users/919633)
 
@@ -53,9 +54,11 @@ Hello, I'm Murka. I'm focused on learning new technologies!<br>
 <br>
 
 <a href="https://www.codewars.com/users/Murka007">
-    <img src="https://www.codewars.com/users/Murka007/badges/large" height="50"/>
+    <img src="https://www.codewars.com/users/Murka007/badges/large" height="50" width="425"/>
 </a>
 
-![Murka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murka007&count_private=true&show_icons=true&theme=aura_dark)
+[![Discord Presence](https://lanyard.cnrad.dev/api/402413403961819137?hideTimestamp=true)](https://discord.com/users/402413403961819137)
+
+<!-- ![Murka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murka007&count_private=true&show_icons=true&theme=aura_dark) -->
 
 ![](https://komarev.com/ghpvc/?username=Murka007&style=flat-square)
