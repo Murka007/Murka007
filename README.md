@@ -49,6 +49,10 @@ Hello, I'm Murka. I'm focused on learning new technologies!<br>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="50" height="50">
 </a>
 
+<a href="https://jestjs.io/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="50" height="50">
+</a>
+
 <br>
 &nbsp;
 <br>
