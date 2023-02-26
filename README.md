@@ -53,6 +53,14 @@ Hello, I'm Murka. I'm focused on learning new technologies!<br>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="50" height="50">
 </a>
 
+<a href="https://vitejs.dev/">
+    <img src="https://vitejs.dev/logo.svg" width="50" height="50">
+</a>
+
+<a href="https://redux.js.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="50" height="50">
+</a>
+
 <br>
 &nbsp;
 <br>
