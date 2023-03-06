@@ -2,6 +2,7 @@ Hello, I'm Murka. I'm focused on learning new technologies!<br>
 
 ### Contacts and socials:
 
+<img src="https://raw.githubusercontent.com/Murka007/Murka007/main/img/telegram.svg" align="center" height="35"/>&nbsp;&nbsp;&nbsp;[Telegram](https://t.me/murkq)<br>
 <img src="https://raw.githubusercontent.com/Murka007/Murka007/main/img/discord.svg" align="center" height="35"/>&nbsp;&nbsp;&nbsp;[Coding paradise](https://discord.gg/sG9cyfGPj5)<br>
 <img src="https://raw.githubusercontent.com/Murka007/Murka007/main/img/greasyfork.svg" align="center" height="35"/>&nbsp;&nbsp;&nbsp;[Murka](https://greasyfork.org/en/users/919633)
 
