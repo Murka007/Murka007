@@ -1,4 +1,4 @@
-Hello, I'm Murka. I'm focused on learning new technologies!<br>
+<!--Hello, I'm Murka. I'm focused on learning new technologies!<br>
 
 ### Languages and tools I already know:
 
@@ -65,7 +65,6 @@ Hello, I'm Murka. I'm focused on learning new technologies!<br>
 </a>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/402413403961819137?hideTimestamp=true)](https://discord.com/users/402413403961819137)
-
-<!-- ![Murka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murka007&count_private=true&show_icons=true&theme=aura_dark) -->
+ ![Murka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murka007&count_private=true&show_icons=true&theme=aura_dark) -->
 
 ![](https://komarev.com/ghpvc/?username=Murka007&style=flat-square)
