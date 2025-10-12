@@ -64,11 +64,12 @@
     <img src="https://www.codewars.com/users/Murka007/badges/large" height="50" width="425"/>
 </a>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/402413403961819137?hideTimestamp=true)](https://discord.com/users/402413403961819137)
- ![Murka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murka007&count_private=true&show_icons=true&theme=aura_dark) -->
-
 <img src="https://raw.githubusercontent.com/Murka007/Murka007/refs/heads/main/img/discord.png" align="center" height="45"/>&nbsp;&nbsp;&nbsp;[murka007](https://discord.com/users/402413403961819137)<br>
 
 <img src="https://raw.githubusercontent.com/Murka007/Murka007/refs/heads/main/img/telegram.png" align="center" height="45"/>&nbsp;&nbsp;&nbsp;[@murkq007](https://t.me/murkq007)<br>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/402413403961819137?hideTimestamp=true)](https://discord.com/users/402413403961819137)
+ ![Murka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murka007&count_private=true&show_icons=true&theme=aura_dark) -->
+
 
 ![](https://komarev.com/ghpvc/?username=Murka007&style=flat-square)
